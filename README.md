@@ -26,7 +26,7 @@ This project is a template for creating ASP.NET Core Web API applications. It pr
 - `Controllers/`: Contains controller classes for handling HTTP requests.
 - `Models/`: Contains model classes representing data entities.
 - `Services/`: Contains service classes for business logic.
-- `Startup.cs`: Configures services and middleware for the application.
+- `Program.cs`: Configures services and middleware for the application.
 - `appsettings.json`: Configuration settings for the application.
 
 ## Contributions
