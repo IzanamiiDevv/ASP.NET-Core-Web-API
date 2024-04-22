@@ -24,6 +24,7 @@ This project is a template for creating ASP.NET Core Web API applications. It pr
 
 ## Project Structure
 - `Controllers/`: Contains controller classes for handling HTTP requests.
+- `Controllers/ExampleAPI.cs`: Example API Script for Referrece.
 - `Models/`: Contains model classes representing data entities.
 - `Services/`: Contains service classes for business logic.
 - `Program.cs`: Configures services and middleware for the application.
