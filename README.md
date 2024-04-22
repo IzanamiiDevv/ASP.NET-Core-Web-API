@@ -35,6 +35,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries or feedback, you can reach out to [your email or contact information].
