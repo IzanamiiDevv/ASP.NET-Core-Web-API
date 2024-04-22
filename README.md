@@ -30,6 +30,11 @@ This project is a template for creating ASP.NET Core Web API applications. It pr
 - `Program.cs`: Configures services and middleware for the application.
 - `appsettings.json`: Configuration settings for the application.
 
+### ExampleAPI.cs
+```CS
+
+```
+
 ## Contributions
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
