@@ -31,8 +31,8 @@ This project is a template for creating ASP.NET Core Web API applications. It pr
 - `appsettings.json`: Configuration settings for the application.
 
 ### ExampleAPI.cs
-```CS
-
+```c#
+//my code.....
 ```
 
 ## Contributions
